@@ -6,6 +6,9 @@
 print(2==2)
 print(2==3)
 
+#What does "^" operator do in python?
+# "^" this operator in python perfors a bitwise XOR operation in operands.
+
 
 
 
